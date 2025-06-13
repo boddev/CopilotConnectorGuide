@@ -8,9 +8,9 @@ This guide provides best practices and step-by-step instructions for building cu
 
 ## ✅ Prerequisites
 
-- Azure subscription
+- Compute Environment (Azure, AWS, GCP, On-prem, etc.)
 - Access to Microsoft Entra ID (formerly Azure AD)
-- .NET SDK installed (6.0+ recommended)
+- .NET SDK installed (8.0+ recommended)
 - Azure CLI or PowerShell
 - Docker (for containerized deployments)
 - Familiarity with Microsoft Graph API
